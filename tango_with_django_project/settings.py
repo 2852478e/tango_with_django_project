@@ -122,6 +122,7 @@ USE_TZ = True
 MEDIA_ROOT = MEDIA_DIR
 MEDIA_URL ='/media/'
 
+LOGIN_URL ='rango:login'
 
 
 # Static files (CSS, JavaScript, Images)
